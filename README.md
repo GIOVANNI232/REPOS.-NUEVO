@@ -1,2 +1,1 @@
-# REPOS.-NUEVO
-una prueba de aprenizaje
+crear repo. desde github
