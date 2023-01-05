@@ -1,1 +1,2 @@
-crear repo. desde github
+crear repo. desde githu
+basura caminante
